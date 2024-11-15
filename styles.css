@@ -1,0 +1,46 @@
+/* Fondo de la aplicación */
+.stApp {
+    background-color: #FFFFFF;  /* Fondo blanco */
+    color: #000000;  /* Texto en negro */
+}
+
+/* Fondo del sidebar */
+.css-1d391kg {  /* Clase generada para la barra lateral */
+    background-color: #63A532;  /* Sidebar en verde */
+    color: #FFFFFF;  /* Texto en blanco en el sidebar */
+}
+
+/* Botones */
+.stButton>button {
+    background-color: #E35B2E;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+}
+
+/* Hover en botones */
+.stButton>button:hover {
+    background-color: #C04A28;
+}
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+    color: #E35B2E;  /* Títulos en color rojo (#E35B2E) */
+}
+
+/* Entradas de texto */
+.stTextInput>div>input, .stNumberInput>div>input {
+    background-color: #FFFFFF;  /* Fondo de entradas de texto en blanco */
+    color: #000000;  /* Texto en negro en las entradas */
+    border-radius: 5px;
+}
+
+/* Select box */
+.stSelectbox>div>div>div {
+    background-color: #FFFFFF;  /* Fondo del select en blanco */
+    color: #000000;  /* Texto en negro en el select */
+    border-radius: 5px;
+}
+
+
+
